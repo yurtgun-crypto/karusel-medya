@@ -1,15 +1,13 @@
-# Suskun Aşk — Suno AI Paketi (v11, konuşur gibi itiraf dili, ≤ 3:30)
+# Suskun Aşk — Suno AI Paketi (v12, olgun ve içe işleyen sözler, ≤ 3:30)
 
 ## Hikâye
 
-Gece yarısı, elinde telefon, yazıp silen biri. Herkes biliyor, annesi bile anlamış; bir tek sevdiği bilmiyor. Bütün şarkı boyunca susar, köprüde ilk ve tek kez fısıldar: **"Seni seviyorum."** Sonunda: **"Duydun mu? ... Duymadın."**
-
-Dil: süslü metafor yerine konuşur gibi, ham, itiraf eden, gerçek bir pop baladı dili.
+Olgun bir adamın ömür boyu sakladığı aşk. Yıllar geçmiş, saçlarına kar düşmüş; sevdiğinin düğününde en arkada durup alkışlamış. Herkese anlatmış, bir tek ona susmuş. Köprüde: **"Bir gün yaşlanır da hatırlarsan o sessiz adamı, en arkadakini... bil ki o adam bir ömür seni sevdi."**
 
 ## Style of Music
 
 ```
-Passionate husky male tenor, raw confessional conversational delivery, highly expressive emotional vocal, dynamic contrast from tired whisper to powerful belting, voice cracks, sobbing breaths, spoken whispered line in bridge, Turkish melismatic runs on held notes, heartbreak Turkish pop-rock ballad, A minor, 78 BPM, acoustic guitar lead, piano, warm strings, electric guitar swells in chorus, drums enter at chorus, stripped bridge with silence, final chorus key change, radio edit under 3:30
+Mature weathered husky male tenor, deep restrained pain, raw confessional delivery, highly expressive emotional vocal, dynamic contrast from tired whisper to powerful belting, voice cracks, sobbing breaths, spoken whispered line in bridge, Turkish melismatic runs on held notes, heartbreak Turkish pop-rock ballad, A minor, 78 BPM, acoustic guitar lead, piano, warm strings, electric guitar swells in chorus, drums enter at chorus, stripped bridge with silence, final chorus key change, radio edit under 3:30
 ```
 
 ## Exclude Styles
@@ -27,84 +25,83 @@ Suskun Aşk
 ## Lyrics
 
 ```
-[Short Intro: acoustic guitar, 4 bars]
+[Short Intro: solo piano, 4 bars]
 
 [Verse 1]
-[soft, tired, intimate, like talking at 3 a.m.]
-Yine gece yarısı, yine sen varsın aklımda
-Telefon elimde, adın ekranda
-Yazıyorum, siliyorum, yazıyorum yine
+[soft, weary, mature, intimate]
+Yıllar geçti, saçlarıma kar düştü
+Sen hâlâ ilk günkü gibisin içimde
+Hangi kapıyı açtıysam sana çıktı
 [voice trembling]
-Bir "nasılsın" bile ağır geliyor dilime
+Hangi yola gittiysem döndüm yine
 
 [Pre-Chorus]
-[building, urgent]
-Biliyorum, bilmiyorsun
-Biliyorum, hiç sormuyorsun
-Ama ben...
+[building slowly]
+Söylenmemiş tek bir cümle
+Bir ömür ağırlığında
+Taşıdım...
 
 [Chorus]
 [full band, raw, powerful belting, emotional cracks]
-Ben seni sustum, en çok seni sustum
+Ben seni sustum, ömrümce sustum
 Herkese anlattım, bir tek sana sustum
-Gülüyorum dışarıdan, içim paramparça
-Suskun aşk bu, adı yok, sesi yok ama
+Bir yanım hep seninle, bir yanım yarım
+Suskun aşk bu, en derin yaraaam
 [voice breaking]
-Sen bir gün sorsan, inan dökülürüm
+Sen hiç bilmedin, ben hiç söylemedim
 [long Turkish melismatic run]
-Suskun aşk bu... ben bu aşkla ölürüüüm
+İkimiz de kaybettik... yalnız ben bildiiim
 
 [Verse 2]
-[quiet again, bitter, honest]
-Arkadaşlar biliyor, annem bile anladı
-Bir tek sen görmedin gözümdeki yangını
-[tender, sad]
-Geçen gün güldün ya, öylece baktım
-O an dünya durdu, ben yine sustum kaldım
+[quiet again, restrained pain]
+Düğününde en arkada durdum
+Herkes gibi alkışladım, gülümsedim
+[tender, broken]
+Eve döndüm, aynaya bakamadım
+Kendime bile söyleyemedim
 
 [Pre-Chorus]
-[building, desperate]
-Biliyorum, bilmiyorsun
-Biliyorum, hiç sormuyorsun
-Ama ben...
+[building]
+Söylenmemiş tek bir cümle
+Bir ömür ağırlığında
+Taşıdım...
 
 [Chorus]
 [full band, raw, powerful belting, emotional cracks]
-Ben seni sustum, en çok seni sustum
+Ben seni sustum, ömrümce sustum
 Herkese anlattım, bir tek sana sustum
-Gülüyorum dışarıdan, içim paramparça
-Suskun aşk bu, adı yok, sesi yok ama
+Bir yanım hep seninle, bir yanım yarım
+Suskun aşk bu, en derin yaraaam
 [voice breaking]
-Sen bir gün sorsan, inan dökülürüm
+Sen hiç bilmedin, ben hiç söylemedim
 [long Turkish melismatic run]
-Suskun aşk bu... ben bu aşkla ölürüüüm
+İkimiz de kaybettik... yalnız ben bildiiim
 
 [Bridge]
-[instruments drop out, guitar only, near silence, sobbing breath]
-Korktum ya... korktum işte
-Ya gidersen diye, ya gülersen diye
+[instruments drop out, piano only, near silence]
+Bir gün yaşlanır da hatırlarsan
+O sessiz adamı, en arkadakini
 [rising, pleading]
-Şimdi gidiyorsun zaten
-Söylesem ne olur, söylemesem ne olur...
+Bil ki o adam bir ömür...
 [Break: silence]
 [spoken, whispered, close to mic]
-Seni seviyorum.
+Seni sevdi.
 
 [Final Chorus]
 [key change up, explosive, maximum emotion, belting with Turkish ornaments]
-BEN SENİ SUSTUM, EN ÇOK SENİ SUSTUM
+BEN SENİ SUSTUM, ÖMRÜMCE SUSTUM
 HERKESE ANLATTIM, BİR TEK SANA SUSTUM
-Gülüyorum dışarıdan, içim paramparça
-Suskun aşk bu, adı yok, sesi yok ama
+Bir yanım hep seninle, bir yanım yarım
+Suskun aşk bu, en derin yaraaam
 [softer, broken]
-Sen bir gün sorsan, inan dökülürüm
+Sen hiç bilmedin, ben hiç söylemedim
 [final long held note, crying]
-Suskun aşk bu... ben bu aşkla ölürüüüm
+İkimiz de kaybettik... yalnız ben bildiiim
 
 [Outro]
-[guitar only, whispered, exhausted]
-Duydun mu?...
-Duymadın.
+[piano only, whispered, exhausted]
+Ben seni sustum...
+Ömrümce.
 
 [End]
 ```
