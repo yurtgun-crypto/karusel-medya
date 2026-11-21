@@ -1,4 +1,4 @@
-# Suskun Aşk — Suno AI Paketi (v7, radyo versiyonu ≤ 3:30)
+# Suskun Aşk — Suno AI Paketi (v8, duygulu vokal yönlendirmeli, ≤ 3:30)
 
 ## Hikâye
 
@@ -7,7 +7,7 @@ Yıllarca sevdiği birine bunu hiç söyleyemeyen biri. Yanından geçer, ses et
 ## Style of Music
 
 ```
-Emotional modern Turkish pop ballad, radio edit under 3:30, short intro, 78 BPM, A minor, warm husky male tenor, soft and close in verses, raw powerful chorus with emotional cracks and Turkish ornaments, acoustic guitar and piano lead, warm bass, light strings, live drums enter at first chorus, stripped bridge, final chorus key change, short piano outro, heartfelt, intimate, catchy singalong melody
+Passionate husky male tenor, highly expressive emotional vocal, dynamic contrast from fragile whisper to raw powerful belting, voice cracks, sobbing breaths, Turkish melismatic runs on held notes, long stretched vowels, ad-libs, heartbreak Turkish pop ballad, A minor, 78 BPM, acoustic guitar and piano, warm strings, drums enter at chorus, stripped bridge with near silence, final chorus key change, radio edit under 3:30
 ```
 
 ## Exclude Styles
@@ -25,63 +25,87 @@ Suskun Aşk
 ## Lyrics
 
 ```
-[Short Intro: piano, 4 bars]
+[Short Intro: solo piano, 4 bars]
 
-[Verse 1: soft, close]
+[Verse 1]
+[soft, fragile, breathy, almost whispering]
 Yanından geçtim, ses etmedim
 Kalbim avucumda, titredim
 Bir "merhaba" kadar yakındın
-Bir ömür kadar uzaktın
+[voice trembling]
+Bir ömür kadar uzaaaktın
 
 [Pre-Chorus]
+[building, urgent, rising]
 Kaç kere geldi dilimin ucuna
-Kaç kere yuttum adını
+Kaç kere yuttum adını...
+(Ah...)
 
-[Chorus: full band, emotional]
-Suskun aşk, içimde bir yara
+[Chorus]
+[full band, raw, powerful belting, emotional cracks]
+Suskun aşk, içimde bir yaraaa
 Ne kapanır ne kanar
 Ben sustukça sen büyürsün
-Bu sessizlik beni yakar
+Bu sessizlik beni yakaaar
 Suskun aşk, kimse bilmesin
+[voice breaking]
 Gözüm dolar, gülerim
 Sen hiç duymadın ya
-Ben seni çok sevdim
+[long Turkish melismatic run]
+Ben seni çok seeevdiiim
+(Çok sevdim...)
 
-[Verse 2: soft]
+[Verse 2]
+[quiet again, bitter, intimate]
 Başkasıyla güldüğünü gördüm
 "Sevindim" dedim, içten öldüm
+[tender, sad]
 Bir şarkıya sakladım seni
 Belki bir gün dinlersin diye
 
 [Pre-Chorus]
+[building, desperate]
 Kaç kere geldi dilimin ucuna
-Kaç kere yuttum adını
+Kaç kere yuttum adını...
+(Ah... ah...)
 
-[Chorus: full band, emotional]
-Suskun aşk, içimde bir yara
+[Chorus]
+[full band, raw, powerful belting, emotional cracks]
+Suskun aşk, içimde bir yaraaa
 Ne kapanır ne kanar
 Ben sustukça sen büyürsün
-Bu sessizlik beni yakar
+Bu sessizlik beni yakaaar
 Suskun aşk, kimse bilmesin
+[voice breaking]
 Gözüm dolar, gülerim
 Sen hiç duymadın ya
-Ben seni çok sevdim
+[long Turkish melismatic run]
+Ben seni çok seeevdiiim
 
-[Bridge: stripped, piano and voice]
-Söyleseydim, gider miydin?
-Sustum da gittin işte
+[Bridge]
+[instruments drop out, piano only, near silence, sobbing breath]
+Söyleseydim... gider miydin?
+Sustum da... gittin işte
+[rising, pleading]
 Bari bu şarkı söylesin
-Benim söyleyemediğimi
+[shouting with emotion]
+BENİM SÖYLEYEMEDİĞİMİ!
 
-[Final Chorus: key change up, powerful]
-Suskun aşk, içimde bir yara
+[Break: 1 beat silence]
+
+[Final Chorus]
+[key change up, explosive, maximum emotion, belting with Turkish ornaments]
+SUSKUN AŞK, İÇİMDE BİR YARAAA
 Ne kapanır ne kanar
 Ben sustukça sen büyürsün
-Bu sessizlik beni yakar
-Sen hiç duymadın ya
-Ben seni çok sevdim
+Bu sessizlik beni yakaaar
+[softer, broken]
+Sen hiç duymadın ya...
+[final long held note, crying]
+Ben seni çok seeevdiiim
 
-[Outro: piano, whispered]
+[Outro]
+[piano only, whispered, exhausted]
 Sen hiç duymadın...
 
 [End]
@@ -100,8 +124,12 @@ Sen hiç duymadın...
 | Final Chorus | 2:45–3:10 |
 | Outro | 3:10–3:20 |
 
-## Suno ipuçları
+## Suno ipuçları (düz vokali kırmak için)
 
-- Custom Mode, Vocal Gender: Male, Weirdness ~%35, Style Influence ~%75.
-- Şarkı 3:30'u geçerse: Style'da `78 BPM` yerine `84 BPM` yaz.
-- 4–6 versiyon üret; en beğendiğin sesi **Persona** olarak kaydet.
+- **Model:** Suno'nun en yeni modelini seç (eski modeller daha düz okur).
+- **Weirdness ~%50–55**, **Style Influence ~%60–65**: biraz serbestlik vokalde dinamik açar.
+- Style'da **vokal tarifleri en başta**; Suno ilk kelimelere daha çok ağırlık verir.
+- Köşeli parantezli satırlar (`[voice breaking]` vb.) bölüm bölüm performans talimatıdır; okunmaz.
+- Uzatılmış harfler (`seeevdiiim`) uzun notayı, BÜYÜK HARF bağırarak/güçlü söylemeyi, `( )` arka vokali tetikler.
+- Hâlâ düz çıkarsa: beğendiğin versiyonun duygulu bir kısmını **Persona** yap ya da o noktadan **Extend / Cover** al.
+- 3:30'u geçerse `78 BPM` → `84 BPM`.
