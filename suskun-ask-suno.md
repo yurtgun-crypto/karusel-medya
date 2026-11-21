@@ -1,4 +1,4 @@
-# Suskun Aşk — Suno AI Paketi (v8, duygulu vokal yönlendirmeli, ≤ 3:30)
+# Suskun Aşk — Suno AI Paketi (v9, edebi sözler + duygulu vokal, ≤ 3:30)
 
 ## Hikâye
 
@@ -29,84 +29,84 @@ Suskun Aşk
 
 [Verse 1]
 [soft, fragile, breathy, almost whispering]
-Yanından geçtim, ses etmedim
-Kalbim avucumda, titredim
-Bir "merhaba" kadar yakındın
+Kaç bahar geçti içimden sessizce
+Çiçek açmadan soldu bütün dallar
+Sana bir cümle kadar yakındım
 [voice trembling]
-Bir ömür kadar uzaaaktın
+Bir ömür kadar uzaaak kaldım
 
 [Pre-Chorus]
 [building, urgent, rising]
-Kaç kere geldi dilimin ucuna
-Kaç kere yuttum adını...
+Kaç kere kanatlandı dilimde adın
+Kaç kere kırıldı kanadı...
 (Ah...)
 
 [Chorus]
 [full band, raw, powerful belting, emotional cracks]
-Suskun aşk, içimde bir yaraaa
-Ne kapanır ne kanar
-Ben sustukça sen büyürsün
-Bu sessizlik beni yakaaar
-Suskun aşk, kimse bilmesin
+Suskun aşk, gönlümde gizli bir yaraaa
+Ne kabuk bağlar ne kanar
+Ben sustukça sen çoğalırsın
+Sessizlik bile adını anaaar
+Suskun aşk, kimseler bilmesin
 [voice breaking]
-Gözüm dolar, gülerim
+Gözlerim dolar, gülerim
 Sen hiç duymadın ya
 [long Turkish melismatic run]
-Ben seni çok seeevdiiim
-(Çok sevdim...)
+Ben seni susarak seeevdiiim
+(Susarak sevdim...)
 
 [Verse 2]
 [quiet again, bitter, intimate]
-Başkasıyla güldüğünü gördüm
-"Sevindim" dedim, içten öldüm
+Bir başka omuzda gülüşünü gördüm
+"İyi ki" dedim, içimde bir şey öldü
 [tender, sad]
-Bir şarkıya sakladım seni
-Belki bir gün dinlersin diye
+Gönderemediğim mektuplar sarardı
+Çekmecemde bir ömür kadar
 
 [Pre-Chorus]
 [building, desperate]
-Kaç kere geldi dilimin ucuna
-Kaç kere yuttum adını...
+Kaç kere kanatlandı dilimde adın
+Kaç kere kırıldı kanadı...
 (Ah... ah...)
 
 [Chorus]
 [full band, raw, powerful belting, emotional cracks]
-Suskun aşk, içimde bir yaraaa
-Ne kapanır ne kanar
-Ben sustukça sen büyürsün
-Bu sessizlik beni yakaaar
-Suskun aşk, kimse bilmesin
+Suskun aşk, gönlümde gizli bir yaraaa
+Ne kabuk bağlar ne kanar
+Ben sustukça sen çoğalırsın
+Sessizlik bile adını anaaar
+Suskun aşk, kimseler bilmesin
 [voice breaking]
-Gözüm dolar, gülerim
+Gözlerim dolar, gülerim
 Sen hiç duymadın ya
 [long Turkish melismatic run]
-Ben seni çok seeevdiiim
+Ben seni susarak seeevdiiim
 
 [Bridge]
 [instruments drop out, piano only, near silence, sobbing breath]
-Söyleseydim... gider miydin?
-Sustum da... gittin işte
+Söyleseydim... kalır mıydın?
+Sustum da... yine gittin
 [rising, pleading]
 Bari bu şarkı söylesin
 [shouting with emotion]
-BENİM SÖYLEYEMEDİĞİMİ!
+YÜREĞİMİN SÖYLEYEMEDİĞİNİ!
 
 [Break: 1 beat silence]
 
 [Final Chorus]
 [key change up, explosive, maximum emotion, belting with Turkish ornaments]
-SUSKUN AŞK, İÇİMDE BİR YARAAA
-Ne kapanır ne kanar
-Ben sustukça sen büyürsün
-Bu sessizlik beni yakaaar
+SUSKUN AŞK, GÖNLÜMDE GİZLİ BİR YARAAA
+Ne kabuk bağlar ne kanar
+Ben sustukça sen çoğalırsın
+Sessizlik bile adını anaaar
 [softer, broken]
 Sen hiç duymadın ya...
 [final long held note, crying]
-Ben seni çok seeevdiiim
+Ben seni susarak seeevdiiim
 
 [Outro]
 [piano only, whispered, exhausted]
-Sen hiç duymadın...
+Seni susarak sevdim...
 
 [End]
 ```
