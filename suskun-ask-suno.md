@@ -1,4 +1,4 @@
-# Suskun Aşk — Suno AI Paketi (v3)
+# Suskun Aşk — Suno AI Paketi (v4: gözlerle anlaşan aşk)
 
 ## Gökhan Türkmen tarzının analizi (bu eserde uygulananlar)
 
@@ -15,7 +15,7 @@
 ## Style of Music (Suno Style kutusu)
 
 ```
-Turkish pop ballad, acoustic pop-rock, deeply emotional, F minor, 76 BPM, husky warm male tenor with Turkish melismatic ornaments, whisper-close intimate verses, powerful belted chorus with long held vowels, emotional voice cracks, Kurdi and Hijaz melodic turns, fingerpicked acoustic guitar intro, soft piano, lush string section, warm bass, brushed drums in verses, full live drums and electric guitar swells in chorus, final chorus key change up, catchy singalong hook, modern Istanbul pop production
+Turkish pop ballad, acoustic pop-rock, deeply emotional, F minor, 76 BPM, husky warm male tenor with Turkish melismatic ornaments, whisper-close intimate verses, powerful belted chorus with long held vowels, emotional voice cracks, Kurdi and Hijaz melodic turns, fingerpicked acoustic guitar intro with ferry horn and seagull ambience, soft piano, lush string section, warm bass, brushed drums in verses, full live drums and electric guitar swells in chorus, final chorus key change up, catchy singalong hook, modern Istanbul pop production
 ```
 
 ## Exclude Styles
@@ -33,96 +33,102 @@ Suskun Aşk
 ## Lyrics
 
 ```
-[Intro: fingerpicked acoustic guitar, hummed melody]
-Mmm... suskun aşkım...
+[Intro: fingerpicked acoustic guitar, distant ferry horn, seagulls, hummed melody]
+Mmm...
 
 [Verse 1: whisper-close vocal]
-Bir akşamüstü gittin sen
-Kapıyı açık bıraktım ben
-Adın dilimde düğümlü
-Kalbim sana hâlâ sürgün
+Her sabah aynı vapurda
+Karşımda oturursun sen
+Ne adın var ne de sesin
+Bir tek gözlerin bildiğim
 
-Çay demledim iki kişilik
-Saat durdu, sen yoksun diye
-Bir "kal" diyemedim, korktum
-Şimdi dinle bu sessizliği
+Rüzgâr saçını savurur
+Martılar bizden konuşur
+Ben denize bakar gibi
+Sana bakarım gizlice
 
 [Pre-Chorus: build, strings enter]
-Kimse bilmedi, kimse duymadı
-Bu yürek yandı, dumanı çıkmadı
-Ah...
+Bir an göz göze gelince
+Durur bütün İstanbul
+Ve sen... gülümsersin
 
 [Chorus: full band, belted, singalong]
-Suskun aşkım, sus da gel
-Sesime bir ses ver de gel
-Ne sen söyledin ne de ben
-Yandık ikimiz de birden
-Suskun aşkım, sus da gel
-Bir bakışın yeter, gel
-Söyleyemedim, sustum ben
-Seni benden çok sevdim ben
+Sen bakarsın, ben anlarım
+Hiç konuşmadan yanarım
+Kelimeler yetmez bize
+Bizim dilimiz suskun aşk
+Söylersem bozulur büyü
+Sussam, gözümden duyarsın
+Ah, ne tatlı bir yangın
+Adı konmamış... suskun aşk
 
-[Post-Chorus: long held vowels]
-Aaah, suskun aşkım
-Aaah, gel...
+[Post-Chorus: chant hook, long held vowels]
+Suskun aşk, suskun aşk
+Gözlerinde konuştu aşk
+Aaah... suskun aşk
 
 [Verse 2: soft, piano]
-Telefonda son mesajın
-Hâlâ "görüldü" yazıyor
-Her gece yazıp siliyorum
-Kalbim sana susuyor
+Kaç mevsim geçti aramızdan
+Ne bir merhaba, ne veda
+Kirpiklerine saklanmış
+Bin cümle okudum orada
 
-Herkes "unut artık" diyor
-Kolay mı, sen söyle bana
-Bir şarkı çalsa radyoda
-Yine sen düşersin aklıma
+Bir gün yerin boş kalırsa
+Nasıl anlatırım kime
+Hiç tanışmadan sevdiğim
+Bir yabancı var kalbimde
 
 [Pre-Chorus: build]
-Kimse bilmedi, kimse duymadı
-Bu yürek yandı, dumanı çıkmadı
-Ah...
+Bir an göz göze gelince
+Durur bütün İstanbul
+Ve sen... gülümsersin
 
 [Chorus: full band, belted, singalong]
-Suskun aşkım, sus da gel
-Sesime bir ses ver de gel
-Ne sen söyledin ne de ben
-Yandık ikimiz de birden
-Suskun aşkım, sus da gel
-Bir bakışın yeter, gel
-Söyleyemedim, sustum ben
-Seni benden çok sevdim ben
+Sen bakarsın, ben anlarım
+Hiç konuşmadan yanarım
+Kelimeler yetmez bize
+Bizim dilimiz suskun aşk
+Söylersem bozulur büyü
+Sussam, gözümden duyarsın
+Ah, ne tatlı bir yangın
+Adı konmamış... suskun aşk
 
-[Bridge: strings swell, vocal breaks, emotional]
-Bir kere, yalnız bir kere
-"Seni seviyorum" deseydim
-Kalır mıydın?
+[Post-Chorus: chant hook]
+Suskun aşk, suskun aşk
+Gözlerinde konuştu aşk
+
+[Bridge: strings swell, emotional, vocal breaks]
+Belki bir gün adını sorarım
+Belki sen önce gülersin
+Ama şimdi sus, ne olur
+Gözlerin yeter bana
 (silence)
-Kalır mıydın?
+Gözlerin yeter...
 
 [Final Chorus: key change up, powerful belting, Turkish ornaments]
-Suskun aşkım, sus da gel
-Sesime bir ses ver de gel
-Ne sen söyledin ne de ben
-Yandık ikimiz de birden
-Suskun aşkım, sus da gel
-Bir bakışın yeter, gel
-Söyleyemedim, sustum ben
-Seni benden çok sevdim ben
+Sen bakarsın, ben anlarım
+Hiç konuşmadan yanarım
+Kelimeler yetmez bize
+Bizim dilimiz suskun aşk
+Söylersem bozulur büyü
+Sussam, gözümden duyarsın
+Ah, ne tatlı bir yangın
+Adı konmamış... suskun aşk
 
-[Outro: acoustic guitar only, whispered]
-Sustum...
-Ama kalbim hiç susmadı
+[Outro: acoustic guitar only, ferry horn, whispered]
+Hiç söylenmedi...
+Ama hep duyuldu
 
 [End]
 ```
 
 ## Viral / edit anları
 
-- **"Suskun aşkım, sus da gel"**: çelişkili, akılda kalan tek satır; herkes mırıldanır.
-- **"Seni benden çok sevdim ben"**: caption/alıntı cümlesi.
-- **"Hâlâ 'görüldü' yazıyor"**: sosyal medya kuşağının ortak acısı → story/edit.
-- **Bridge "Kalır mıydın? (sessizlik) Kalır mıydın?"**: edit geçiş anı.
-- **Outro "Sustum... ama kalbim hiç susmadı"**: kapanış cümlesi.
+- **"Sen bakarsın, ben anlarım"**: nakaratın açılışı; göz göze gelme edit'leri için birebir.
+- **"Söylersem bozulur büyü"**: hikâyenin kalbi — konuşursak her şey biter korkusu.
+- **Post-chorus "Suskun aşk, suskun aşk / Gözlerinde konuştu aşk"**: 15 sn döngü, kolay söylenir.
+- **Bridge "Gözlerin yeter bana (sessizlik)"**: edit geçiş anı.
+- **Outro "Hiç söylenmedi... ama hep duyuldu"**: caption cümlesi.
 
 ## Suno ipuçları
 
