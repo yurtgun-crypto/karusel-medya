@@ -1,47 +1,28 @@
-# Suskun Aşk — Suno AI Paketi (v5: "Derdim" yaklaşımı)
+# Suskun Aşk — Suno AI Paketi (v6: Kenar Notu)
 
-## Gökhan Türkmen tarzının analizi (bu eserde uygulananlar)
+## Hikâye
 
-| Özellik | Onun tarzında | Suskun Aşk'ta |
-|---|---|---|
-| Ses | Sıcak, hafif pürüzlü, duygusal erkek tenor; nakaratta güçlü, kıtalarda neredeyse fısıltı | Style'da "husky emotional tenor, whisper-close verses, belted chorus" |
-| Süsleme | Türk müziği gırtlak süslemeleri, uzatılan açık ünlüler ("aaah", "geeel") | Nakarat sonları "gel / ben" ile bitiyor → uzatılabilir ünlüler |
-| Melodi | Pop-rock ama makam kokan (Kürdi/Hicaz) melodik dönüşler | Fa minör + "Kurdi/Hijaz melodic turns" |
-| Altyapı | Parmakla çalınan akustik gitar → piyano → yaylılar → nakaratta tam grup | Aynı katmanlı büyüme |
-| Söz dili | Sade, konuşur gibi, "sen–ben" hitabı, günlük imgeler | Çay, açık kapı, "görüldü", saat |
-| Nakarat | Şarkı adı nakaratın ilk kelimeleri, tekrarla bitiyor | "Suskun aşkım, sus da gel" ile açılıp kapanıyor |
-| Ölçü | Kısa, eşit heceli dizeler → kolay söylenir | Dizeler 7–8 hece |
+İki yabancı, kütüphaneden sırayla ödünç aldıkları aynı kitabın kenarlarına kurşun kalemle notlar yazarak birbirine âşık olur. Hiç yüzlerini görmezler, seslerini hiç duymazlar. Bir gün kitap, içinde kurumuş bir yaprak ve tek bir satırla döner: **"Gelme, böyle güzeliz."** Anlatıcı gitmez; aşk sessizlikte büyümeye devam eder.
 
-## Style of Music (Suno Style kutusu)
+**Ana metafor:** Kalp = kenar notu, sevgili = altı çizilmiş cümle, virgül = nefes, boş son sayfa = söylenmemiş en güzel cümle.
+**Ana paradoks / kanca:** "Söylesem eksilir, sussam çoğalır."
 
-**"Derdim" yaklaşımlı Style (v5, önerilen):**
+## Style of Music
 
 ```
-Melancholic romantic Turkish pop ballad, F minor, 72 BPM, sparse artistic arrangement, warm husky male tenor, intimate close-mic delivery, title hook sung with long melismatic held vowel, simple memorable melody, felt piano and nylon guitar, solo cello, subtle string pads, minimal percussion in verses, emotional swell in chorus, a cappella moment before final chorus, key change, distant ferry horn, lush reverb, modern Istanbul production
+Modern Turkish alt-pop ballad in 6/8 time, B minor, 68 BPM, warm husky emotional male tenor, fragile breathy verses, soaring chorus with melismatic Turkish ornaments, Rhodes electric piano, muted electric guitar arpeggios, warm analog synth pads, deep sub bass, organic drums with rimshots and soft kick, kanun flourishes, tape-saturated texture, vinyl crackle and page-turning foley intro, wordless choir in final chorus, sudden silence before last hook, key change, cinematic but minimal, contemporary Turkish indie-pop production
 ```
 
-**Sinematik alternatif:**
+**Kısa versiyon:**
 
 ```
-Cinematic Turkish pop ballad, intimate and tender, F minor, 72 BPM, warm husky male tenor, breathy whisper-close verses, soaring emotional chorus with long held vowels, subtle Turkish melismatic ornaments, Kurdi melodic phrasing, intro with distant ferry horn and seagulls, fingerpicked nylon guitar, felt piano, solo cello, slow-building string orchestra, soft brushed drums, warm upright bass, chorus opens with full live drums and wide strings, haunting ney in bridge, dramatic pause before final chorus, key change up, Bosphorus night atmosphere, lush reverb, modern Istanbul production
-```
-
-**Kısa Style (karakter sınırı varsa):**
-
-```
-Turkish pop ballad, F minor, 72 BPM, husky emotional male tenor, nylon guitar, piano, cello, strings, ney, ferry horn intro, cinematic, key change
-```
-
-**Alternatif — daha akustik/ham:**
-
-```
-Acoustic Turkish ballad, raw and intimate, F minor, 70 BPM, husky male tenor, live room recording, fingerpicked guitar, soft piano, cello, light percussion, emotional chorus, Turkish ornaments, minimal production, seaside night mood
+Turkish alt-pop ballad, 6/8, B minor, husky emotional male tenor, Rhodes, muted guitar, analog pads, sub bass, kanun, choir, key change
 ```
 
 ## Exclude Styles
 
 ```
-female vocals, rap, EDM, trap, autotune, upbeat, dance
+female vocals, rap, EDM, trap hi-hats, autotune, upbeat, dance, orchestral bombast
 ```
 
 ## Title
@@ -53,87 +34,108 @@ Suskun Aşk
 ## Lyrics
 
 ```
-[Intro: soft felt piano, a cappella teaser, long held vowel]
-Suskun aşkııım...
+[Intro: vinyl crackle, page turning, Rhodes, hummed melody]
+Mmm...
 
-[Verse 1: whisper-close vocal, sparse]
-Her sabah aynı vapurda
-Karşımda oturursun sen
-Ne adın var ne de sesin
-Bir tek gözlerin bildiğim
+[Verse 1: fragile, breathy, close-mic]
+Solgun bir sayfa, yorgun bir satır
+Kenarda bir not: "Burada kaldım"
+Kimdin bilmem, kalemin kırık
+Ama yaran benimkiydi, anladım
+
+Ben de yazdım altına incecik
+"Ben de buradayım, yalnız değilsin"
+Kitap gitti, döndü bir hafta sonra
+Bir tek soru: "Sen misin?"
+
+[Pre-Chorus: build, pads swell]
+Ne bir yüz, ne bir ses, ne bir isim
+Sadece harflerinde nefesin
+
+[Chorus: soaring, emotional, melismatic]
+Suskun aşk, kenar notu kalbim
+Altını çizdiğim tek cümle sensin
+Okudukça yandım, yandıkça okudum
+Kül oldu sayfalar, sen hâlâ en derinsin
+Suskun aşk, adı yok, sesi yok
+Bir kalem izi, bir de iç çekişin
+Söylesem eksilir, sussam çoğalır
+Sessizliğe yazılmış bir şiirsin
+
+[Post-Chorus: hook, long held vowels]
+Söylesem eksilir... aaah
+Sussam çoğalır... aaah
+
+[Verse 2: drums enter softly]
+Mevsimler döndü cilt cilt
+Sayfalar sarardı, biz yeşerdik
+Bir gün içinde kurumuş bir yaprak
+Bir satır: "Gelme, böyle güzeliz"
+
+Gelmedim, ama her gece okudum
+Bir mum gibi eridim satır satır
+Yüzünü hiç görmedim, yine de
+Her virgülde nefes aldığını bildim
 
 [Pre-Chorus: build]
-Söylersem bozulur büyü
-Susarsam yanarım yine
+Ne bir yüz, ne bir ses, ne bir isim
+Sadece harflerinde nefesin
 
-[Chorus: emotional, title held long with melisma]
-Suskun aşkııım...
-Ne sen söyle ne ben
-Bir bakışın yeter
-Anlarım seni senden
-Suskun aşkııım...
-Dilim sussa da
-Gözlerim bağırır
-"Seviyorum" diye
+[Chorus: soaring, emotional, melismatic]
+Suskun aşk, kenar notu kalbim
+Altını çizdiğim tek cümle sensin
+Okudukça yandım, yandıkça okudum
+Kül oldu sayfalar, sen hâlâ en derinsin
+Suskun aşk, adı yok, sesi yok
+Bir kalem izi, bir de iç çekişin
+Söylesem eksilir, sussam çoğalır
+Sessizliğe yazılmış bir şiirsin
 
-[Verse 2: soft, nylon guitar joins]
-Kaç mevsim geçti aramızdan
-Ne bir merhaba, ne veda
-Kirpiklerine saklanmış
-Bin cümle okudum orada
-
-[Pre-Chorus: build]
-Söylersem bozulur büyü
-Susarsam yanarım yine
-
-[Chorus: emotional, title held long with melisma]
-Suskun aşkııım...
-Ne sen söyle ne ben
-Bir bakışın yeter
-Anlarım seni senden
-Suskun aşkııım...
-Dilim sussa da
-Gözlerim bağırır
-"Seviyorum" diye
-
-[Bridge: strings swell, vocal breaks]
-Bir gün yerin boş kalırsa
-Nasıl anlatırım kime
-Hiç tanışmadan sevdiğim
-Bir yabancı var kalbimde
+[Bridge: stripped down, kanun, vocal breaks]
+Belki bir gün başka bir kitapta
+Başka bir kenarda bulurum seni
+Kalemin titrer, tanırım
+Hiç duymadığım sesini
 (silence)
 
 [A cappella]
-Suskun aşkııım...
+Söylesem eksilir...
 
-[Final Chorus: key change up, full band, powerful]
-Suskun aşkııım...
-Ne sen söyle ne ben
-Bir bakışın yeter
-Anlarım seni senden
-Suskun aşkııım...
-Dilim sussa da
-Gözlerim bağırır
-"Seviyorum" diye
+[Final Chorus: key change up, wordless choir, full band]
+Suskun aşk, kenar notu kalbim
+Altını çizdiğim tek cümle sensin
+Okudukça yandım, yandıkça okudum
+Kül oldu sayfalar, sen hâlâ en derinsin
+Suskun aşk, adı yok, sesi yok
+Bir kalem izi, bir de iç çekişin
+Söylesem eksilir, sussam çoğalır
+Sessizliğe yazılmış bir şiirsin
 
-[Outro: piano only, whispered, ferry horn]
-Hiç söylenmedi...
-Ama hep duyuldu
+[Outro: Rhodes only, whispered, page closing]
+Son sayfa boş kaldı...
+Belki en güzel cümle buydu
 
 [End]
 ```
 
+## Edebi teknikler
+
+- **İç kafiye:** solgun/yorgun, yandım/okudum, eksilir/çoğalır, cilt cilt, satır satır.
+- **Ters bakışım (chiasmus):** "Okudukça yandım, yandıkça okudum".
+- **Paradoks:** "Söylesem eksilir, sussam çoğalır", "Hiç duymadığım sesini tanırım".
+- **Metafor:** kalp = kenar notu, virgül = nefes, kül olmuş sayfalar, boş son sayfa.
+- **Karşıtlık:** "Sayfalar sarardı, biz yeşerdik".
+
 ## Viral / edit anları
 
-- **"Sen bakarsın, ben anlarım"**: nakaratın açılışı; göz göze gelme edit'leri için birebir.
-- **"Söylersem bozulur büyü"**: hikâyenin kalbi — konuşursak her şey biter korkusu.
-- **Post-chorus "Suskun aşk, suskun aşk / Gözlerinde konuştu aşk"**: 15 sn döngü, kolay söylenir.
-- **Bridge "Gözlerin yeter bana (sessizlik)"**: edit geçiş anı.
-- **Outro "Hiç söylenmedi... ama hep duyuldu"**: caption cümlesi.
+- **"Söylesem eksilir, sussam çoğalır"**: caption ve 15 sn döngü kancası.
+- **"Gelme, böyle güzeliz"**: hikâyenin kırılma anı; edit'lerde ekrana yazı olarak.
+- **"Okudukça yandım, yandıkça okudum"**: kolay ezberlenen, tekrar eden ritim.
+- **Bridge sonrası sessizlik + a cappella**: geçiş/flash anı.
 
 ## Suno ipuçları
 
-- Custom Mode, Vocal Gender: Male, Weirdness ~%35–40, Style Influence ~%75–80.
-- 4–6 versiyon üret. Sesi en çok beğendiğin versiyonu **Persona** olarak kaydet; sonraki üretimlerde aynı ses tınısını korur.
-- Ses fazla temizse Style'a `gritty smoky voice` ekle; daha "arabesk" his için `subtle baglama, ney` ekle.
-- Not: Suno belirli bir sanatçının sesini birebir kopyalamaz ve sanatçı adlarını filtreler. Style tarifi o tınıya ve tarza yaklaştırır.
+- Custom Mode, Vocal Gender: Male, Weirdness ~%40, Style Influence ~%75.
+- 4–6 versiyon üret; beğendiğin sesi **Persona** olarak kaydet.
+- Daha organik istersen Style'dan `analog synth pads, sub bass` çıkar, `nylon guitar, cello` ekle.
+- Not: Suno belirli bir sanatçının sesini birebir kopyalamaz ve sanatçı adlarını filtreler; Style tarifi o tınıya yaklaştırır.
