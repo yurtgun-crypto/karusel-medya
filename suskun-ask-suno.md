@@ -1,15 +1,27 @@
-# Suskun Aşk — Suno AI Paketi (v2, viral nakaratlı)
+# Suskun Aşk — Suno AI Paketi (v3)
 
-## Style of Music
+## Gökhan Türkmen tarzının analizi (bu eserde uygulananlar)
+
+| Özellik | Onun tarzında | Suskun Aşk'ta |
+|---|---|---|
+| Ses | Sıcak, hafif pürüzlü, duygusal erkek tenor; nakaratta güçlü, kıtalarda neredeyse fısıltı | Style'da "husky emotional tenor, whisper-close verses, belted chorus" |
+| Süsleme | Türk müziği gırtlak süslemeleri, uzatılan açık ünlüler ("aaah", "geeel") | Nakarat sonları "gel / ben" ile bitiyor → uzatılabilir ünlüler |
+| Melodi | Pop-rock ama makam kokan (Kürdi/Hicaz) melodik dönüşler | Fa minör + "Kurdi/Hijaz melodic turns" |
+| Altyapı | Parmakla çalınan akustik gitar → piyano → yaylılar → nakaratta tam grup | Aynı katmanlı büyüme |
+| Söz dili | Sade, konuşur gibi, "sen–ben" hitabı, günlük imgeler | Çay, açık kapı, "görüldü", saat |
+| Nakarat | Şarkı adı nakaratın ilk kelimeleri, tekrarla bitiyor | "Suskun aşkım, sus da gel" ile açılıp kapanıyor |
+| Ölçü | Kısa, eşit heceli dizeler → kolay söylenir | Dizeler 7–8 hece |
+
+## Style of Music (Suno Style kutusu)
 
 ```
-Turkish pop-rock ballad, emotional, F minor, 76 BPM, warm soulful male tenor, slightly husky, emotional vocal cracks, soft falsetto on high notes, intimate close-mic verses, powerful belted singalong chorus, acoustic guitar fingerpicking, piano, lush strings, live drums and electric guitar in chorus, catchy hook, modern Istanbul pop ballad
+Turkish pop ballad, acoustic pop-rock, deeply emotional, F minor, 76 BPM, husky warm male tenor with Turkish melismatic ornaments, whisper-close intimate verses, powerful belted chorus with long held vowels, emotional voice cracks, Kurdi and Hijaz melodic turns, fingerpicked acoustic guitar intro, soft piano, lush string section, warm bass, brushed drums in verses, full live drums and electric guitar swells in chorus, final chorus key change up, catchy singalong hook, modern Istanbul pop production
 ```
 
 ## Exclude Styles
 
 ```
-female vocals, rap, EDM, autotune, upbeat, trap
+female vocals, rap, EDM, trap, autotune, upbeat, dance
 ```
 
 ## Title
@@ -21,110 +33,100 @@ Suskun Aşk
 ## Lyrics
 
 ```
-[Intro: a cappella, intimate, close-mic]
-Sustum diye mi bitti
-Bu sevda yarı yolda...
+[Intro: fingerpicked acoustic guitar, hummed melody]
+Mmm... suskun aşkım...
 
-[Verse 1: acoustic guitar]
-Sabah oldu, yine yoksun
-Bir çay koydum, iki bardak
-Kaç kere geldim kapına
-Döndüm geri ağlayarak
+[Verse 1: whisper-close vocal]
+Bir akşamüstü gittin sen
+Kapıyı açık bıraktım ben
+Adın dilimde düğümlü
+Kalbim sana hâlâ sürgün
 
-Bir "dur" desem dururdun belki
-Bir "kal" desem kalırdın belki
-Ben sustum, sen anlamadın
-İkimiz de kaybettik belki
+Çay demledim iki kişilik
+Saat durdu, sen yoksun diye
+Bir "kal" diyemedim, korktum
+Şimdi dinle bu sessizliği
 
-[Pre-Chorus: build]
-Dilimin ucunda kaldı adın
-Gözümde bir damla, düşmedi yere
-Ah, bir bilsen...
+[Pre-Chorus: build, strings enter]
+Kimse bilmedi, kimse duymadı
+Bu yürek yandı, dumanı çıkmadı
+Ah...
 
-[Chorus: full band, catchy, singalong]
-Sustum, sustum, sevdim seni
-Tek kelime etmeden
-Sustum, sustum, yaktım beni
-Sen gittin, ben gitmeden
-Bağırsam duyar mıydın?
-Kalsam bekler miydin?
-Sustum diye mi bitti
-Bu sevda yarı yolda?
+[Chorus: full band, belted, singalong]
+Suskun aşkım, sus da gel
+Sesime bir ses ver de gel
+Ne sen söyledin ne de ben
+Yandık ikimiz de birden
+Suskun aşkım, sus da gel
+Bir bakışın yeter, gel
+Söyleyemedim, sustum ben
+Seni benden çok sevdim ben
 
-[Post-Chorus: hook, repetitive]
-Yarı yolda, yarı yolda
-Kalbim kaldı yarı yolda
-Ah, ah, ah...
-Kalbim kaldı yarı yolda
+[Post-Chorus: long held vowels]
+Aaah, suskun aşkım
+Aaah, gel...
 
-[Verse 2: soft]
+[Verse 2: soft, piano]
 Telefonda son mesajın
-Yazıyor hâlâ "görüldü"
-Ne çok şey vardı diyecek
-Hepsi içimde gömüldü
+Hâlâ "görüldü" yazıyor
+Her gece yazıp siliyorum
+Kalbim sana susuyor
 
 Herkes "unut artık" diyor
 Kolay mı, sen söyle bana
 Bir şarkı çalsa radyoda
-Yine sen düşüyorsun aklıma
+Yine sen düşersin aklıma
 
 [Pre-Chorus: build]
-Dilimin ucunda kaldı adın
-Gözümde bir damla, düşmedi yere
-Ah, bir bilsen...
+Kimse bilmedi, kimse duymadı
+Bu yürek yandı, dumanı çıkmadı
+Ah...
 
-[Chorus: full band, catchy, singalong]
-Sustum, sustum, sevdim seni
-Tek kelime etmeden
-Sustum, sustum, yaktım beni
-Sen gittin, ben gitmeden
-Bağırsam duyar mıydın?
-Kalsam bekler miydin?
-Sustum diye mi bitti
-Bu sevda yarı yolda?
+[Chorus: full band, belted, singalong]
+Suskun aşkım, sus da gel
+Sesime bir ses ver de gel
+Ne sen söyledin ne de ben
+Yandık ikimiz de birden
+Suskun aşkım, sus da gel
+Bir bakışın yeter, gel
+Söyleyemedim, sustum ben
+Seni benden çok sevdim ben
 
-[Post-Chorus: hook, repetitive]
-Yarı yolda, yarı yolda
-Kalbim kaldı yarı yolda
-Ah, ah, ah...
-Kalbim kaldı yarı yolda
-
-[Bridge: strings swell, emotional, vocal breaks]
-Şimdi bağırıyorum, duy beni
-Bütün şehir duysun, sen duy yeter
-Seni seviyorum...
+[Bridge: strings swell, vocal breaks, emotional]
+Bir kere, yalnız bir kere
+"Seni seviyorum" deseydim
+Kalır mıydın?
 (silence)
-Geç mi kaldım yoksa?
+Kalır mıydın?
 
-[Final Chorus: key change up, powerful belting]
-Sustum, sustum, sevdim seni
-Tek kelime etmeden
-Sustum, sustum, yaktım beni
-Sen gittin, ben gitmeden
-Bağırsam duyar mıydın?
-Kalsam bekler miydin?
-Sustum diye mi bitti
-Bu sevda yarı yolda?
+[Final Chorus: key change up, powerful belting, Turkish ornaments]
+Suskun aşkım, sus da gel
+Sesime bir ses ver de gel
+Ne sen söyledin ne de ben
+Yandık ikimiz de birden
+Suskun aşkım, sus da gel
+Bir bakışın yeter, gel
+Söyleyemedim, sustum ben
+Seni benden çok sevdim ben
 
-[Outro: piano only, whispered]
+[Outro: acoustic guitar only, whispered]
 Sustum...
 Ama kalbim hiç susmadı
 
 [End]
 ```
 
-## Neden viral olur?
+## Viral / edit anları
 
-- **Intro a cappella teaser:** "Sustum diye mi bitti / Bu sevda yarı yolda" — ilk 5 saniyede kanca; edit'lerin açılış sesi.
-- **"Sustum, sustum"** tekrarı: tek kelimelik, ritmik, herkesin altına yazı yazabileceği an.
-- **"Görüldü"** dizesi: sosyal medya kuşağının birebir yaşadığı an → "story/edit" malzemesi.
-- **Post-chorus "Yarı yolda, yarı yolda"**: 15 saniyelik TikTok/Reels döngüsü için ideal, kolay söylenir.
-- **Bridge'deki sessizlik** ("Seni seviyorum... (sessizlik)"): edit'lerde geçiş/flash anı.
-- **Son dize twist:** "Sustum... ama kalbim hiç susmadı" — alıntı/caption cümlesi.
+- **"Suskun aşkım, sus da gel"**: çelişkili, akılda kalan tek satır; herkes mırıldanır.
+- **"Seni benden çok sevdim ben"**: caption/alıntı cümlesi.
+- **"Hâlâ 'görüldü' yazıyor"**: sosyal medya kuşağının ortak acısı → story/edit.
+- **Bridge "Kalır mıydın? (sessizlik) Kalır mıydın?"**: edit geçiş anı.
+- **Outro "Sustum... ama kalbim hiç susmadı"**: kapanış cümlesi.
 
 ## Suno ipuçları
 
-- Custom Mode, Vocal Gender: Male, Weirdness ~%40, Style Influence ~%75.
-- 4–6 versiyon üret; nakaratı en akılda kalan versiyonu seç.
-- Ses fazla temiz çıkarsa Style'a `gritty smoky voice` ekle.
-- Not: Suno belirli bir sanatçının sesini kopyalamaz ve sanatçı adlarını filtreler; Style tarifi o tınıya (sıcak, hafif pürüzlü, duygusal erkek tenor + akustik pop-rock) yaklaştırır.
+- Custom Mode, Vocal Gender: Male, Weirdness ~%35–40, Style Influence ~%75–80.
+- 4–6 versiyon üret. Sesi en çok beğendiğin versiyonu **Persona** olarak kaydet; sonraki üretimlerde aynı ses tınısını korur.
+- Ses fazla temizse Style'a `gritty smoky voice` ekle; daha "arabesk" his için `subtle baglama, ney` ekle.
+- Not: Suno belirli bir sanatçının sesini birebir kopyalamaz ve sanatçı adlarını filtreler. Style tarifi o tınıya ve tarza yaklaştırır.
