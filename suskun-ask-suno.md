@@ -1,13 +1,13 @@
-# Suskun Aşk — Suno AI Paketi (v12, olgun ve içe işleyen sözler, ≤ 3:30)
+# Suskun Aşk — Suno AI Paketi (v13, "Kimse git demedi", ≤ 3:30)
 
 ## Hikâye
 
-Olgun bir adamın ömür boyu sakladığı aşk. Yıllar geçmiş, saçlarına kar düşmüş; sevdiğinin düğününde en arkada durup alkışlamış. Herkese anlatmış, bir tek ona susmuş. Köprüde: **"Bir gün yaşlanır da hatırlarsan o sessiz adamı, en arkadakini... bil ki o adam bir ömür seni sevdi."**
+Kullanıcının "Kimse git demedi aslında..." metninden esinlenildi. Kavgasız, vedasız, sessizce biten bir aşk: önce cümleler kısalır, bakışlar uzaklaşır, aynı yastıkta iki yabancı kalır. Kimse kovmaz ama kimse kalması için de savaşmaz. **"Kimse git demedi bana, ama her şey git dedi."**
 
 ## Style of Music
 
 ```
-Mature weathered husky male tenor, deep restrained pain, raw confessional delivery, highly expressive emotional vocal, dynamic contrast from tired whisper to powerful belting, voice cracks, sobbing breaths, spoken whispered line in bridge, Turkish melismatic runs on held notes, heartbreak Turkish pop-rock ballad, A minor, 78 BPM, acoustic guitar lead, piano, warm strings, electric guitar swells in chorus, drums enter at chorus, stripped bridge with silence, final chorus key change, radio edit under 3:30
+Mature weathered husky male tenor, restrained melancholic slow-burn delivery, deep quiet pain, highly expressive emotional vocal, dynamic contrast from tired whisper to powerful belting, voice cracks, spoken whispered line in bridge, Turkish melismatic runs on held notes, heartbreak Turkish pop ballad, A minor, 76 BPM, felt piano lead, acoustic guitar, cello, warm strings, drums enter at chorus, stripped bridge with silence, final chorus key change, radio edit under 3:30
 ```
 
 ## Exclude Styles
@@ -29,79 +29,83 @@ Suskun Aşk
 
 [Verse 1]
 [soft, weary, mature, intimate]
-Yıllar geçti, saçlarıma kar düştü
-Sen hâlâ ilk günkü gibisin içimde
-Hangi kapıyı açtıysam sana çıktı
+Önce cümleler kısaldı
+Sonra bakışlar uzaklaştı
+Aynı yastıkta iki yabancı
 [voice trembling]
-Hangi yola gittiysem döndüm yine
+Sessizlik bizden çok konuştu
 
 [Pre-Chorus]
 [building slowly]
-Söylenmemiş tek bir cümle
-Bir ömür ağırlığında
-Taşıdım...
+Sarılmalar gevşedi usulca
+Sözlerin sıcaklığı söndü
+Ve ben anladım...
 
 [Chorus]
 [full band, raw, powerful belting, emotional cracks]
-Ben seni sustum, ömrümce sustum
-Herkese anlattım, bir tek sana sustum
-Bir yanım hep seninle, bir yanım yarım
-Suskun aşk bu, en derin yaraaam
+Kimse "git" demedi bana
+Ama her şey "git" dedi
+Ne bir kapı çarptı ardımdan
+Ne bir el beni tuttuuu
+Suskun aşk, ne kavga ne veda
+Usul usul büyüdü ayrılık
 [voice breaking]
-Sen hiç bilmedin, ben hiç söylemedim
+"Kal" desen de neye yarar
 [long Turkish melismatic run]
-İkimiz de kaybettik... yalnız ben bildiiim
+Kalacak yer bırakmadııık
 
 [Verse 2]
 [quiet again, restrained pain]
-Düğününde en arkada durdum
-Herkes gibi alkışladım, gülümsedim
+Bir zamanlar ait olduğum yerde
+Fazla bir sandalye gibi durdum
 [tender, broken]
-Eve döndüm, aynaya bakamadım
-Kendime bile söyleyemedim
+Kimse kovmadı beni, biliyorum
+Ama kimse kalmam için savaşmadı
 
 [Pre-Chorus]
 [building]
-Söylenmemiş tek bir cümle
-Bir ömür ağırlığında
-Taşıdım...
+Sarılmalar gevşedi usulca
+Sözlerin sıcaklığı söndü
+Ve ben anladım...
 
 [Chorus]
 [full band, raw, powerful belting, emotional cracks]
-Ben seni sustum, ömrümce sustum
-Herkese anlattım, bir tek sana sustum
-Bir yanım hep seninle, bir yanım yarım
-Suskun aşk bu, en derin yaraaam
+Kimse "git" demedi bana
+Ama her şey "git" dedi
+Ne bir kapı çarptı ardımdan
+Ne bir el beni tuttuuu
+Suskun aşk, ne kavga ne veda
+Usul usul büyüdü ayrılık
 [voice breaking]
-Sen hiç bilmedin, ben hiç söylemedim
+"Kal" desen de neye yarar
 [long Turkish melismatic run]
-İkimiz de kaybettik... yalnız ben bildiiim
+Kalacak yer bırakmadııık
 
 [Bridge]
 [instruments drop out, piano only, near silence]
-Bir gün yaşlanır da hatırlarsan
-O sessiz adamı, en arkadakini
+Gitmek bazen bir karar değil
+Bir mecburiyetmiş, öğrendim
 [rising, pleading]
-Bil ki o adam bir ömür...
+Bazı vedalar söylenmeden edilir...
 [Break: silence]
 [spoken, whispered, close to mic]
-Seni sevdi.
+Bizimki öyleydi.
 
 [Final Chorus]
 [key change up, explosive, maximum emotion, belting with Turkish ornaments]
-BEN SENİ SUSTUM, ÖMRÜMCE SUSTUM
-HERKESE ANLATTIM, BİR TEK SANA SUSTUM
-Bir yanım hep seninle, bir yanım yarım
-Suskun aşk bu, en derin yaraaam
+KİMSE "GİT" DEMEDİ BANA
+AMA HER ŞEY "GİT" DEDİ
+Ne bir kapı çarptı ardımdan
+Ne bir el beni tuttuuu
 [softer, broken]
-Sen hiç bilmedin, ben hiç söylemedim
+"Kal" desen de neye yarar
 [final long held note, crying]
-İkimiz de kaybettik... yalnız ben bildiiim
+Kalacak yer bırakmadııık
 
 [Outro]
 [piano only, whispered, exhausted]
-Ben seni sustum...
-Ömrümce.
+Kimse "git" demedi...
+Ama ben duydum.
 
 [End]
 ```
