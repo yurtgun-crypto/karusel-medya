@@ -14,8 +14,22 @@
 
 ## Style of Music (Suno Style kutusu)
 
+**Ana Style (önerilen):**
+
 ```
-Turkish pop ballad, acoustic pop-rock, deeply emotional, F minor, 76 BPM, husky warm male tenor with Turkish melismatic ornaments, whisper-close intimate verses, powerful belted chorus with long held vowels, emotional voice cracks, Kurdi and Hijaz melodic turns, fingerpicked acoustic guitar intro with ferry horn and seagull ambience, soft piano, lush string section, warm bass, brushed drums in verses, full live drums and electric guitar swells in chorus, final chorus key change up, catchy singalong hook, modern Istanbul pop production
+Cinematic Turkish pop ballad, intimate and tender, F minor, 72 BPM, warm husky male tenor, breathy whisper-close verses, soaring emotional chorus with long held vowels, subtle Turkish melismatic ornaments, Kurdi melodic phrasing, intro with distant ferry horn and seagulls, fingerpicked nylon guitar, felt piano, solo cello, slow-building string orchestra, soft brushed drums, warm upright bass, chorus opens with full live drums and wide strings, haunting ney in bridge, dramatic pause before final chorus, key change up, Bosphorus night atmosphere, lush reverb, modern Istanbul production
+```
+
+**Kısa Style (karakter sınırı varsa):**
+
+```
+Turkish pop ballad, F minor, 72 BPM, husky emotional male tenor, nylon guitar, piano, cello, strings, ney, ferry horn intro, cinematic, key change
+```
+
+**Alternatif — daha akustik/ham:**
+
+```
+Acoustic Turkish ballad, raw and intimate, F minor, 70 BPM, husky male tenor, live room recording, fingerpicked guitar, soft piano, cello, light percussion, emotional chorus, Turkish ornaments, minimal production, seaside night mood
 ```
 
 ## Exclude Styles
