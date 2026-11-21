@@ -1,8 +1,8 @@
-# Suskun Aşk — Suno AI Paketi (v9, edebi sözler + duygulu vokal, ≤ 3:30)
+# Suskun Aşk — Suno AI Paketi (v10, yeni sözler + duygulu vokal, ≤ 3:30)
 
 ## Hikâye
 
-Yıllarca sevdiği birine bunu hiç söyleyemeyen biri. Yanından geçer, ses etmez; sevdiği başkasıyla gülerken bile susar. Sonunda söyleyemediğini bir şarkıya saklar: **"Bari bu şarkı söylesin, benim söyleyemediğimi."**
+İçinde bir ömür boyu taşınan, hiç söylenmemiş bir aşk: içe kazılmış bir kuyu, pulsuz ve adressiz bir mektup, "ne ağır, ne güzel bir yük". Köprüde dinleyiciye dönülür: **"Bir gün bu şarkı çalarsa ve içinde bir şey kıpırdarsa, bil ki o bendim. O sessizlik bendim."**
 
 ## Style of Music
 
@@ -29,84 +29,83 @@ Suskun Aşk
 
 [Verse 1]
 [soft, fragile, breathy, almost whispering]
-Kaç bahar geçti içimden sessizce
-Çiçek açmadan soldu bütün dallar
-Sana bir cümle kadar yakındım
+Bir kuyu kazdım içime, adını sakladım
+Yankısı hâlâ gelir gecelerden
+Ne bir dal kırıldı ne bir yaprak düştü
 [voice trembling]
-Bir ömür kadar uzaaak kaldım
+Kimse duymadı bu sessiz depremden
 
 [Pre-Chorus]
 [building, urgent, rising]
-Kaç kere kanatlandı dilimde adın
-Kaç kere kırıldı kanadı...
+Kaç kere dudağımda açtı adın
+Kaç kere soldu söylenmeden...
 (Ah...)
 
 [Chorus]
 [full band, raw, powerful belting, emotional cracks]
-Suskun aşk, gönlümde gizli bir yaraaa
-Ne kabuk bağlar ne kanar
-Ben sustukça sen çoğalırsın
-Sessizlik bile adını anaaar
-Suskun aşk, kimseler bilmesin
+Suskun aşk, içimde bir yankııı
+Ne çıkar ne kaybolur
+Söylenmemiş her kelime
+Göğsümde bir yıldız oluuur
+Suskun aşk, sana yazılmış
 [voice breaking]
-Gözlerim dolar, gülerim
-Sen hiç duymadın ya
+Pulsuz, adressiz bir mektup
+Bir ömür taşıdım seni
 [long Turkish melismatic run]
-Ben seni susarak seeevdiiim
-(Susarak sevdim...)
+Ne ağır, ne güzel bir yüüük
+(Ne güzel bir yük...)
 
 [Verse 2]
 [quiet again, bitter, intimate]
-Bir başka omuzda gülüşünü gördüm
-"İyi ki" dedim, içimde bir şey öldü
+Kalabalıkta kokun geçer, dönerim
+Sen değilsin, yine de titrer ellerim
 [tender, sad]
-Gönderemediğim mektuplar sarardı
-Çekmecemde bir ömür kadar
+Takvimler değişti, ben değişmedim
+Hâlâ aynı sayfada beklerim
 
 [Pre-Chorus]
 [building, desperate]
-Kaç kere kanatlandı dilimde adın
-Kaç kere kırıldı kanadı...
+Kaç kere dudağımda açtı adın
+Kaç kere soldu söylenmeden...
 (Ah... ah...)
 
 [Chorus]
 [full band, raw, powerful belting, emotional cracks]
-Suskun aşk, gönlümde gizli bir yaraaa
-Ne kabuk bağlar ne kanar
-Ben sustukça sen çoğalırsın
-Sessizlik bile adını anaaar
-Suskun aşk, kimseler bilmesin
+Suskun aşk, içimde bir yankııı
+Ne çıkar ne kaybolur
+Söylenmemiş her kelime
+Göğsümde bir yıldız oluuur
+Suskun aşk, sana yazılmış
 [voice breaking]
-Gözlerim dolar, gülerim
-Sen hiç duymadın ya
+Pulsuz, adressiz bir mektup
+Bir ömür taşıdım seni
 [long Turkish melismatic run]
-Ben seni susarak seeevdiiim
+Ne ağır, ne güzel bir yüüük
 
 [Bridge]
 [instruments drop out, piano only, near silence, sobbing breath]
-Söyleseydim... kalır mıydın?
-Sustum da... yine gittin
+Bir gün bu şarkı çalarsa bir yerde
+Ve içinde bir şey kıpırdarsa
 [rising, pleading]
-Bari bu şarkı söylesin
-[shouting with emotion]
-YÜREĞİMİN SÖYLEYEMEDİĞİNİ!
-
+Bil ki o bendim...
 [Break: 1 beat silence]
+[shouting with emotion]
+O SESSİZLİK BENDİM!
 
 [Final Chorus]
 [key change up, explosive, maximum emotion, belting with Turkish ornaments]
-SUSKUN AŞK, GÖNLÜMDE GİZLİ BİR YARAAA
-Ne kabuk bağlar ne kanar
-Ben sustukça sen çoğalırsın
-Sessizlik bile adını anaaar
+SUSKUN AŞK, İÇİMDE BİR YANKIII
+Ne çıkar ne kaybolur
+Söylenmemiş her kelime
+Göğsümde bir yıldız oluuur
 [softer, broken]
-Sen hiç duymadın ya...
+Bir ömür taşıdım seni...
 [final long held note, crying]
-Ben seni susarak seeevdiiim
+Ne ağır, ne güzel bir yüüük
 
 [Outro]
 [piano only, whispered, exhausted]
-Seni susarak sevdim...
+Ne ağır... ne güzel...
 
 [End]
 ```
